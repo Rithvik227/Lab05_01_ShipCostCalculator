@@ -2,14 +2,6 @@ import java.util.Scanner;
 
 public class ShipCostCalculator {
     static void main(String[] args) {
-        //get user input
-        //initialize itemPrice and shippingCost variables as floats
-        //check if input is a float
-        //check if item price is less than 100
-        //calculate shipping cost
-        //print shipping cost and total cost
-        //print invalid input message
-
         Scanner in = new Scanner(System.in);
         float itemPrice = 0;
         float shippingCost = 0;
